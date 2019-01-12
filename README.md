@@ -18,8 +18,8 @@ This repository which contains our team's solution for [Human Protein Atlas Imag
 
 ## Datails of solution
 You can check the details of our solution with the two links below and you also can check the code.<br>
-[11th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77282)<br>
-[11th place solution(custom f1 loss)
+- [11th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77282)<br>
+- [11th place solution(custom f1 loss)
 ](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77289)<br>
 
 ## Other excellent Solutions
