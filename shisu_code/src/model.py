@@ -1,3 +1,9 @@
+"""
+The code and idea behind it in this file mainly stole from fastai. For better code, greater ideas and amazing free courses, definitely
+goto https://www.fast.ai/
+"""
+
+
 from lightai.core import *
 
 
