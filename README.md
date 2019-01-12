@@ -23,14 +23,14 @@ You can check the details of our solution with the two links below and you also 
 ](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77289)<br>
 
 ## Other excellent Solutions
-[3rd place solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77320)<br>
-[part of 4th place solution: GAPNet & dual loss ResNet
+- [3rd place solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77320)<br>
+- [part of 4th place solution: GAPNet & dual loss ResNet
 ](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77300)<br>
-[7th place solution
+- [7th place solution
 ](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77269)<br>
-[8 place solution writeup
+- [8 place solution writeup
 ](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77251)<br>
-[12th place solution
+- [12th place solution
 ](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77325)<br>
 
 ## Conclusion
