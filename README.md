@@ -11,21 +11,21 @@ This repository which contains our team's solution for [Human Protein Atlas Imag
 [And the main author of code for third stage experiments](https://github.com/Gary-Deeplearning/Human_Protein/tree/master/shisu_code) was [shisu](https://www.kaggle.com/shisususu) 
 
 ## Datails of solution
-You can check the details of our solution with the two links below and you also can check the code.
-[11th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77282)
+You can check the details of our solution with the two links below and you also can check the code.<br>
+[11th Place Solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77282)<br>
 [11th place solution(custom f1 loss)
-](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77289)
+](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77289)<br>
 
 ## Other excellent Solutions
-[3rd place solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77320)
+[3rd place solution](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77320)<br>
 [part of 4th place solution: GAPNet & dual loss ResNet
-](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77300)
+](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77300)<br>
 [7th place solution
-](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77269)
+](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77269)<br>
 [8 place solution writeup
-](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77251)
+](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77251)<br>
 [12th place solution
-](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77325)
+](https://www.kaggle.com/c/human-protein-atlas-image-classification/discussion/77325)<br>
 
 ## Conclusion
 Thank you very much, if you want to use the code of this repository, I hope you can write the author of the code.
