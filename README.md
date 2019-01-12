@@ -11,9 +11,10 @@ This repository which contains our team's solution for [Human Protein Atlas Imag
 - [lihaowei](https://www.kaggle.com/lihaoweicvch) was responsible for solving the problem of data distribution
 - [shisu](https://www.kaggle.com/shisususu) was the main author of our third stage experiment
 - I was responsible for tuning parameters and trained different large model because I had 4xp40. <br>
+
 **We've done a lot of experiments with different optimizers, different learning rate decay, different data augmentation, different data distribution, different model and so on.** <br>
-[Tha main author of code for first and second stage experiments](https://github.com/Gary-Deeplearning/Human_Protein/tree/master/stage1%262) was [qrfaction](https://github.com/qrfaction)<br>
-[And the main author of code for third stage experiments](https://github.com/Gary-Deeplearning/Human_Protein/tree/master/shisu_code) was [shisu](https://www.kaggle.com/shisususu) 
+- [Tha main author of code for first and second stage experiments](https://github.com/Gary-Deeplearning/Human_Protein/tree/master/stage1%262) was [qrfaction](https://github.com/qrfaction)<br>
+- [And the main author of code for third stage experiments](https://github.com/Gary-Deeplearning/Human_Protein/tree/master/shisu_code) was [shisu](https://www.kaggle.com/shisususu) 
 
 ## Datails of solution
 You can check the details of our solution with the two links below and you also can check the code.<br>
